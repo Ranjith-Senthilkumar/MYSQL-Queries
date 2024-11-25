@@ -19,7 +19,7 @@ This repository contains advanced SQL use cases and projects across domains like
 - Scheduled database events to manage periodic log purges and cleanup operations.
 - Calculated forecast accuracy reports using temporary tables and CTEs.
 
-[View Supply Chain Analytics SQL File]()
+[View Supply Chain Analytics SQL File](https://github.com/Ranjith-Senthilkumar/MYSQL-Queries/blob/main/Supply_chain_analysis_query)
 
 ### 3. **Top Customers, Products, and Markets Analysis**
 - Generated pre-invoice and post-invoice discount reports using views and CTEs.
