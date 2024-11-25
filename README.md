@@ -11,7 +11,7 @@ This repository contains advanced SQL use cases and projects across domains like
   - Automating monthly gross sales reports for specific customers.
   - Assigning market badges (Gold or Silver) based on performance.
   
-[View Finance Analytics SQL File]()
+[View Finance Analytics SQL File](https://github.com/Ranjith-Senthilkumar/MYSQL-Queries/blob/main/Financials_Query)
 
 ### 2. **Supply Chain Analytics**
 - Designed helper tables (`fact_act_est`) for actual and forecasted quantities using `LEFT JOIN` and `UNION`.
