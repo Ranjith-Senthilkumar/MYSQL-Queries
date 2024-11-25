@@ -28,7 +28,7 @@ This repository contains advanced SQL use cases and projects across domains like
   - Top customers in specific markets and fiscal years.
 - Employed window functions (`ROW_NUMBER`, `RANK`, `DENSE_RANK`) to rank expenses and product performance across divisions.
 
-[View Top Customers, Products, and Markets SQL File]()
+[View Top Customers, Products, and Markets SQL File](https://github.com/Ranjith-Senthilkumar/MYSQL-Queries/blob/main/Top%20and%20Bottom%20N%20queries)
 
 ## Key Features
 
