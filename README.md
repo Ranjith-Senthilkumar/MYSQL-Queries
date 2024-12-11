@@ -1,4 +1,4 @@
-# SQL Advanced Projects
+# End2End Analysis
 
 This repository contains advanced SQL use cases and projects across domains like **Finance Analytics**, **Supply Chain Analytics**, and **Top Customers, Products, and Markets Analysis**. These projects demonstrate robust SQL implementations, including the use of user-defined functions, stored procedures, triggers, events, CTEs, and optimization techniques.
 
